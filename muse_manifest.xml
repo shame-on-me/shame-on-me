@@ -1,0 +1,27 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="shame-on-me.github.io" resolutions="1x" timestamp="1499364903812">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4193191577" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="4232573551" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="4152223963" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="phone>index:index"/>
+    <file name="require.js" crc="4234670167" ref="phone>index:index"/>
+  </folder>
+  <folder name="images">
+    <file name="uuxjjpyc.jpg" crc="4078717001" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-musters.css" crc="3852353634" ref="phone>index"/>
+      <file name="index.css" crc="10345742" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="195229123" seo="true" mt="1499364850749" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="434559998" seo="true" mt="1499362091834" redirect="false"/>
+</manifest>
